@@ -1,4 +1,4 @@
-# Hi, I'm Lauren Nicole Balser! 
+# Hi, I'm Lauren Nicole Balser! 👋
 ╰┈➤ Welcome to my digital humanities portfolio!
 
 Lauren Nicole Balser is an MA student in Media Studies at the University of Virginia with a Certificate in Digital Humanities. Most simply, Lauren studies the relationship between fandom and political culture; her thesis critically considers fanfiction written about the assassinations of UnitedHealthcare CEO Brian Thompson and conservative activist Charlie Kirk and argues for what she calls "crisis fandom"— the fannish entanglement with and transformation of the experience and mediatization of crisis, instability, or uncertainty.
