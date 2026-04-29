@@ -5,7 +5,7 @@ Lauren Nicole Balser is an MA student in Media Studies at the University of Virg
 
 Aside from her work in media studies and digital humanities, Lauren also has a passion for university writing centers. She has worked at the UVA Writing Center as a writing consultant for the last two years and worked at the NYU Gallatin Writing Center during undergrad. 
 
-Following graduation, Lauren will move to Brooklyn, where she hopes to begin working on a public humanities project related to crisis fandom before applying to PhDs in the fall. In the meanwhile, you can find Lauren's work on her [Google Scholar](https://scholar.google.com/citations?user=gYDX88EAAAAJ&hl=en&inst=13751854044476728232) or her [ORCID](https://orcid.org/0009-0009-9317-9487). 
+Following graduation, Lauren will move to Brooklyn, where she hopes to begin working on a public humanities project related to crisis fandom before applying to PhDs in the fall. In the meanwhile, you can find Lauren's published scholarship on her [Google Scholar](https://scholar.google.com/citations?user=gYDX88EAAAAJ&hl=en&inst=13751854044476728232) or her [ORCID](https://orcid.org/0009-0009-9317-9487); or, you can keep an eye out for Transformative Works and Cultures' upcoming issue, where Lauren's work on genderfucked technology will be published. 
 
 ## ↳˗ˏˋDH Work at UVA and Beyondˊˎ˗ ↴
 
