@@ -14,4 +14,26 @@ To solve this issue, Lauren created a database to be able to search through the 
 
 Lauren has also taken an interest in ethical scholarship and the role of public humanities in fostering more collaborative and ethical scholarship while at UVA. For instance, she appeared on the [*Transformative Taskmaster*](https://tftaskmaster.uk/18/03/2025/transformative-taskmaster-ep02-im-gonna-put-my-frogs-in-that-bucket/) podcast to discuss her article in [*Persona Studies*](https://doi.org/10.21153/psj2024vol10no2art2064), which analyzed the way fan persona formation happens in the *Taskmaster UK* real person fanfiction communities. This was a fantastic collaboration between the fans that Lauren was writing about and Lauren/her work, and it inspired some blueprints and ideas for future public humanities work that allows fans and researchers to more collaboratively theorize fan experiences in the digital age.
 
-## ╰┈➤ ｡･:*:･ﾟ★Presentations and Peer-Reviewed Articles･:*:･ﾟ☆
+## ╰┈➤ Scholarship, Reviews, and Presentations･:*:･ﾟ☆
+### Peer-Reviewed Articles
+Balser, Lauren Nicole. “Tags on Archive of Our Own as Genderfucked Technology.” *Transformative Works and Cultures*. Forthcoming.
+
+Balser, Lauren Nicole. “Real Person Fanfiction and the Construction of the (Un)Ethical Fan.” *Persona Studies* 10, no. 2 (2025), 6-18, https://doi.org/10.21153/psj2024vol10no2art2064.
+
+### Book Reviews
+Balser, Lauren Nicole. Review of *Fame and Fandom: Functioning On and Offline,* edited by Celia Lam, Jackie Raphael, Renee Middlemost, and Jessica Balanzategui. *Journal of Fandom Studies* 14, no. 1, 111-113.
+
+Balser, Lauren Nicole. Review of *Fandom is Ugly: Networked Harassment in Participatory Culture*, by Mel Stanfill. *International Journal of Communication* 19, 532-534.
+
+### Conference Presentations
+“Assassination Fanfiction and the Future of Political Fan Studies,” Popular Culture Association, Atlanta, GA, April 10, 2026
+
+“‘Dear feds, this and my last fic are... political satire’: Luigi Mangione Fanfiction as Political Sensemaking and Play,” Society for Cinema and Media Studies, Chicago, IL, March 27, 2026
+
+“Luigi Mangione Real Person Fanfiction as a Method of Digital Political Sensemaking,” Fan Studies Network North America, Online, October 25, 2025
+
+“Trans/Fan Space/Time: Tags on AO3 as Genderfucked Technology,” Popular Culture Association, New Orleans, LA, April 18, 2025
+
+“Trans/Fan Space/Time: Tags on AO3 as Genderfucked Technology,” Fan Studies Network North America, Online, October 18, 2024
+
+“OceanGate Ironific and the Valorization of Moral Standards in Digital Fan Spaces,” Popular Culture Association, Chicago, IL, March 29, 2024
