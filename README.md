@@ -1,7 +1,7 @@
 # Hi, I'm Lauren Nicole Balser! ˚⟡˖ ࣪
 ╰┈➤ Welcome to my digital humanities portfolio!
 
-Lauren Nicole Balser is an MA student in Media Studies at the University of Virginia with a Certificate in Digital Humanities. Most simply, Lauren studies the relationship between fandom and political culture; her thesis critically considers fanfiction written about the assassinations of UnitedHealthcare CEO Brian Thompson and conservative activist Charlie Kirk and argues for what she calls "crisis fandom"— the fannish entanglement with and transformation of the experience and mediatization of crisis, instability, or uncertainty.
+Lauren Nicole Balser is an MA student in Media Studies at the University of Virginia with a Certificate in Digital Humanities. Most simply, Lauren studies the relationship between fandom and political culture; her [thesis](https://doi.org/10.18130/cy71-p838) critically considers fanfiction written about the assassinations of UnitedHealthcare CEO Brian Thompson and conservative activist Charlie Kirk and argues for what she calls "crisis fandom"— the fannish entanglement with and transformation of the experience and mediatization of crisis, instability, or uncertainty.
 
 Aside from her work in media studies and digital humanities, Lauren also has a passion for university writing centers. She has worked at the UVA Writing Center as a writing consultant for the last two years and worked at the NYU Gallatin Writing Center during undergrad. 
 
@@ -14,4 +14,4 @@ To solve this issue, Lauren created a database to be able to search through the 
 
 Lauren has also taken an interest in ethical scholarship and the role of public humanities in fostering more collaborative and ethical scholarship while at UVA. For instance, she appeared on the [*Transformative Taskmaster*](https://tftaskmaster.uk/18/03/2025/transformative-taskmaster-ep02-im-gonna-put-my-frogs-in-that-bucket/) podcast to discuss her article in [*Persona Studies*](https://doi.org/10.21153/psj2024vol10no2art2064), which analyzed the way fan persona formation happens in the *Taskmaster UK* real person fanfiction communities. This was a fantastic collaboration between the fans that Lauren was writing about and Lauren/her work, and it inspired some blueprints and ideas for future public humanities work that allows fans and researchers to more collaboratively theorize fan experiences in the digital age.
 
-## Presentations, Peer-Reviewed Articles, and Public Humanities Work
+## ╰┈➤ ❝[Presentations and Peer-Reviewed Articles]❞
