@@ -14,4 +14,4 @@ To solve this issue, Lauren created a database to be able to search through the 
 
 Lauren has also taken an interest in ethical scholarship and the role of public humanities in fostering more collaborative and ethical scholarship while at UVA. For instance, she appeared on the [*Transformative Taskmaster*](https://tftaskmaster.uk/18/03/2025/transformative-taskmaster-ep02-im-gonna-put-my-frogs-in-that-bucket/) podcast to discuss her article in [*Persona Studies*](https://doi.org/10.21153/psj2024vol10no2art2064), which analyzed the way fan persona formation happens in the *Taskmaster UK* real person fanfiction communities. This was a fantastic collaboration between the fans that Lauren was writing about and Lauren/her work, and it inspired some blueprints and ideas for future public humanities work that allows fans and researchers to more collaboratively theorize fan experiences in the digital age.
 
-## ╰┈➤ ❝[Presentations and Peer-Reviewed Articles]❞
+## ╰┈➤ ｡･:*:･ﾟ★Presentations and Peer-Reviewed Articles･:*:･ﾟ☆
