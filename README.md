@@ -18,7 +18,7 @@ Lauren has also taken an interest in ethical scholarship and the role of public 
 ### Peer-Reviewed Articles
 Balser, Lauren Nicole. “Tags on Archive of Our Own as Genderfucked Technology.” *Transformative Works and Cultures*. Forthcoming.
 
-Balser, Lauren Nicole. “Real Person Fanfiction and the Construction of the (Un)Ethical Fan.” *Persona Studies* 10, no. 2 (2025), 6-18, https://doi.org/10.21153/psj2024vol10no2art2064.
+Balser, Lauren Nicole. “Real Person Fanfiction and the Construction of the (Un)Ethical Fan.” *Persona Studies* 10, no. 2 (2025), 6-18, ([https://doi.org/10.21153/psj2024vol10no2art2064.])
 
 ### Book Reviews
 Balser, Lauren Nicole. Review of *Fame and Fandom: Functioning On and Offline,* edited by Celia Lam, Jackie Raphael, Renee Middlemost, and Jessica Balanzategui. *Journal of Fandom Studies* 14, no. 1, 111-113.
